@@ -1,0 +1,19 @@
+.data {
+  margin: 40px 80px 40px 80px;
+  h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+.data-selection {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.data-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
